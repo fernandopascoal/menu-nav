@@ -33,8 +33,12 @@ aside i {
     padding-top: 20px;
     height: inherit;
     background-color: rgb(172, 170, 170);
-    transition: all ease 4s;
+    transition: all ease 3s;
     overflow-x: hidden;
+}
+
+#nav li {
+    list-style: none;
 }
 
 #nav a {
